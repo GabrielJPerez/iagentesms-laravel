@@ -1,0 +1,19 @@
+{
+    "name": "gabrieljperez/iagentesms",
+    "description": "sdk for api sms iagentesms",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "autoload": {
+		"psr-0": {
+			"gabrieljperez": "src/"
+		}
+	},
+    "authors": [
+        {
+            "name": "Perez",
+            "email": "gabrieljesusperez@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

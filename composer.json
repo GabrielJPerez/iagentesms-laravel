@@ -2,7 +2,9 @@
     "name": "gabrieljperez/iagentesms",
     "description": "sdk for api sms iagentesms",
     "type": "library",
-    "require": {},
+    "require": {
+    	"php": "~7.4|^8.0",
+    },
     "license": "MIT",
     "autoload": {
 		"psr-0": {

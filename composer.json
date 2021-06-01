@@ -3,7 +3,7 @@
     "description": "sdk for api sms iagentesms",
     "type": "library",
     "require": {
-    	"php": "~7.4|^8.0",
+    	"php": "~7.4|^8.0"
     },
     "license": "MIT",
     "autoload": {
